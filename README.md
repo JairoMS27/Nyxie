@@ -5,7 +5,7 @@ Meet Nyxie a multitasking Discord Bot with many features. I have decided to uplo
 <img src="https://i.imgur.com/gw4mLRC.png" >
 </center>
 
-# Functions
+# Features
 
 - YT or Spotify Music
 - Ticket tool
