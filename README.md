@@ -18,6 +18,7 @@ Meet Nyxie a multitasking Discord Bot with many features. I have decided to uplo
 - System to take emojis the other servers
 - Help Command
 - Translate Command
+- Join To Create System
 
 # Configure
 
