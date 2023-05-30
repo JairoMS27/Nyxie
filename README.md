@@ -12,11 +12,11 @@ Meet Nyxie a multitasking Discord Bot with many features. I have decided to uplo
 - AFK System
 - Games
 - Moderation Commands
-- ask_gpt
-- imagine
-- poll
-- system to take emojis the other servers
-- help Command
+- Ask_gpt
+- Imagine
+- Poll
+- System to take emojis the other servers
+- Help Command
 - Translate Command
 
 # Configure
